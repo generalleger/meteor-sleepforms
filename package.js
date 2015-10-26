@@ -13,5 +13,4 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('generalledger:sleepforms');
-  api.addFiles('sleepforms-tests.js');
 });
