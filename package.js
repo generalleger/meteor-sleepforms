@@ -2,7 +2,7 @@ Package.describe({
   name: 'generalledger:sleepforms',
   version: '0.0.1',
   summary: 'Make Meteor._sleepforMS available on the client',
-  git: '',
+  git: 'https://github.com/generalleger/meteor-sleepforms',
   documentation: 'README.md'
 });
 
